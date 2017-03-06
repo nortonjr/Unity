@@ -4,7 +4,7 @@
 
 - [x] Vector2
 - [x] Vector3
-- [ ] Vector4
+- [x] Vector4
 - [ ] Quaternion
 
 ## Requirements
